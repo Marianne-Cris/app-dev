@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# Wednessday
+- Mystery
+- Comedy
+- Fantasy 
